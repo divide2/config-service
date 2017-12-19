@@ -19,7 +19,7 @@ spring:
         encrypt.enabled: false
         git:
           uri: https://github.com/divide2/config-repo/
-          searchPaths: chatservice,organizationservice,specialroutesservice,zuulservice,authenticationservice
+          searchPaths: specialroutesservice,zuulservice,authenticationservice,smsservice
           username: bvvy@qq.com
           password: bvvy288
 
